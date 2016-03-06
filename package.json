@@ -3,7 +3,7 @@
   "main": "./lib/atom-esfmt.js",
   "version": "0.0.13",
   "description": "Atom plugin for esfmt. Format your JS code to pretty ES6",
-  "keywords": [],
+  "keywords": ["esfmt"],
   "repository": "https://github.com/dmitriiabramov/atom-esfmt",
   "license": "MIT",
   "engines": {
