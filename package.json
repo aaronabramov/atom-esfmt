@@ -1,13 +1,10 @@
 {
   "name": "atom-esfmt",
-  "main": "./lib/atom-esfmt",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "main": "./lib/atom-esfmt.js",
+  "version": "0.0.13",
+  "description": "Atom plugin for esfmt. Format your JS code to pretty ES6",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-esfmt:toggle"
-  },
-  "repository": "https://github.com/atom/atom-esfmt",
+  "repository": "https://github.com/dmitriiabramov/atom-esfmt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
