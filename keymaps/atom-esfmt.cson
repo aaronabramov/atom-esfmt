@@ -7,3 +7,8 @@
 
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
+'atom-text-editor':
+  'cmd-h': 'atom-esfmt:formatFile'
+  'ctrl-h': 'atom-esfmt:formatFile'
+  'cmd-shift-h': 'atom-esfmt:formatSelection'
+  'ctrl-shift-h': 'atom-esfmt:formatSelection'
